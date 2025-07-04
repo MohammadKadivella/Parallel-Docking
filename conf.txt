@@ -1,0 +1,12 @@
+receptor = 3vq1_A_C.pdbqt
+
+center_x =  12.484
+center_y =  26.469
+center_z =  17.578
+
+size_x = 120
+size_y = 124
+size_z = 108
+
+cpu = 2
+num_modes = 9
